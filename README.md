@@ -6,17 +6,7 @@ Requirements: Linux OS, GNU Radio Companion, Python 3
 
 Warning: Apply Message Hotfix/Enter Message Code Fault
 
-Occasionally, when the user applies message hotfix to conclude all C terminal client
-
-operations (AUTO_MSG_HOTFIX==0) or enters message to conclude all C terminal client
-
-operations (AUTO_MSG_HOTFIX==1), the QT GUI window will not manually close, the C
-
-terminal client will close and the GNU Radio pass itself will continue to be unresponsive to any
-
-relaunched client input and the pass will need to be manually closed and after that the pass is to
-
-be restarted to continue normal functionality.
+Occasionally, when the user applies message hotfix to conclude all C terminal client operations (AUTO_MSG_HOTFIX==0) or enters message to conclude all C terminal client operations (AUTO_MSG_HOTFIX==1), the QT GUI window will not manually close, the C terminal client will close and the GNU Radio pass itself will continue to be unresponsive to any relaunched client input and the pass will need to be manually closed and after that the pass is to be restarted to continue normal functionality.
 
 Open three instances of Terminal.
 
