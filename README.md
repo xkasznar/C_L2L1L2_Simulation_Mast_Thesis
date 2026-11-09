@@ -22,6 +22,6 @@ e. View bits of the message - both those that have passed through the model (blu
 
 f. Press Return key in C terminal client and the message will appear in C terminal server.
 
-Note: when pressing Return key, the QT GUI window will sometimes need to be closed manually after step f and then function may be resumed from step b. See AMH/EMC Fault Warning above for more information.
+Note: when pressing Return key, the QT GUI window will sometimes need to be closed manually after step f and then function may be resumed from step b. See AMH/EMCF Warning above for more information.
 
 g. Go to step b.
